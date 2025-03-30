@@ -28,8 +28,11 @@
 		"vite": "^6.0.0"
 	},
 	"dependencies": {
-		"@supabase/supabase-js": "^2.48.1",
+		"@supabase/supabase-js": "^2.49.4",
+		"@tiptap/core": "^2.11.7",
+		"@tiptap/pm": "^2.11.7",
+		"@tiptap/starter-kit": "^2.11.7",
 		"dotenv": "^16.4.7",
-		"mongodb": "^6.13.0"
+		"mongodb": "^6.15.0"
 	}
 }
